@@ -11,7 +11,7 @@ Please edit this file and push to your repository.
 |---------|-----------|
 | Repository URL |  https://github.com/bmcage/odes/  |
 | Main/documentation website |  https://scikits-odes.readthedocs.io/en/stable/  |
-| Year project was started | Nov 14, 2008  |
+| Year project was started | Nov 14, 2008  
 | Number of contributors in the past year | 3 |
 | Number of contributors in the lifetime of the project | 12  |
 | Number of distinct affiliations | 2-5 |
