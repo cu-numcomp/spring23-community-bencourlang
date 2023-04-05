@@ -1,29 +1,28 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: * ODES*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*The ODES scikit for ordinary differential and differential algebraic equations, an extension to scipy. It is used for people who work with ordinary differential equations and differential algebraic equations since its primary functionalities are the additions of ode and dae solvers*
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/bmcage/odes/  |
+| Main/documentation website |  https://scikits-odes.readthedocs.io/en/stable/  |
+| Year project was started | Nov 14, 2008  |
+| Number of contributors in the past year | 3 |
+| Number of contributors in the lifetime of the project | 12  |
+| Number of distinct affiliations | 2-5 |
+| Where do development discussions take place? | GitHub/GitLab issues  |
+| Typical number of emails/comments per week? | 0  |
+| Typical number of commits per week? | 0 |
+| Typical commit size |  1 file changed, 3 insertions(+), 3 deletions(-) |
+| How does the project accept contributions? | pull requests |
+| Does the project have an automated test suite? | no |
+| Does the project use continuous integration? | no |
+| Are any legal/licensing steps required to contribute? | no, but documentation needs to be updated on Zenodo |
 
 ### Install and run
 
